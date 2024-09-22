@@ -21,5 +21,9 @@ It gave me a lot of information of the video
 Which I did not know that it was released in 1987 and hit top one in UK charts, it is still one of the most popular videos.
 
 
+# The famous quote of Abdul Kalam
+##### Dream is not that which you see while sleeping,
+##### It is something that which does not let you sleep
 
+![My image Name](/assets/images/abdul.png)
 
