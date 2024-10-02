@@ -45,6 +45,16 @@
   font-family: Georgia, Times, serif;
 }
 
+div.content pre {
+  background: #d42525;
+  padding: 10px;
+  color: rgb(20, 199, 29);
+  overflow-x: auto;
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 12px;
+  border: none;
+ }
+
 .mfp-bg {
   top: 0;
   left: 0;
@@ -1017,7 +1027,7 @@ input[type=submit],
 form {
   margin: 0 0 5px 0;
   padding: 1em;
-  background-color: #f2f3f3;
+  background-color: hsla(113, 57%, 31%, 0.815);
 }
 form fieldset {
   margin-bottom: 5px;

@@ -30,3 +30,11 @@ This book is way shorter compared to most harry potter books .
 
 
 _______________________________________________________________________________________________________
+## **The inspirational quotation from Michael Jordan** ##
+> *I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.*
+
+#### Michael Jordan ####
+
+#### *I have generated this below image by using deepai.org AI image generation tool* ####
+
+![alt text](/assets/images/mj.PNG)
